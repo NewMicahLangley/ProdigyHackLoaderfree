@@ -3862,7 +3862,4 @@ Sponsors
 Secure stores, happy shoppers. We are Sansec.
 
 Credits
-Project maintained by lelinhtinh
-Hosted on GitHub Pages
-
-Icons made by Eucalyp
+New Micah Langley
